@@ -154,10 +154,11 @@
 }
 .image-box{
     width: 70%;   
-    margin-left: 40px;
+    /* margin-left: 40px; */
 }
 .image-box img{
     border-radius: 50%;
+    width: 220px;
 }
 .image-box img:hover{
     box-shadow: 1px 4px 10px rgba(128, 128, 128, 0.452);
